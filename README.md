@@ -1,6 +1,6 @@
 # Mystic-Bastion-Server
 
-* [multiplayer based on DesignsbyZephyr tutorial] (https://www.youtube.com/watch?v=VE7ezYCTPe4&list=PL8CAB66181A502179)
+Server for my Mystic-Bastion client, that allow to play online.
 
 # Running
 in eclipse go to src -> server -> ServerMain.java and press run(green button with white arrow on top)
